@@ -1,7 +1,6 @@
 # Travel-RouteNet
 The code aims to extract valuable features from raw text data to identify the source and destination cities mentioned in messages. It utilizes pre-trained word embeddings, LSTM layers for sequence processing, and a supervised learning approach to achieve this task.
 
-Certainly! Here's a detailed explanation of the code in five paragraphs, along with subheadings, an introduction, and a conclusion.
 
 Introduction:
 The provided code implements a feature extraction model that focuses on identifying the source city and destination city from raw text data. It utilizes a combination of natural language processing techniques and deep learning algorithms to preprocess the data, train a model, and make predictions. The goal is to extract valuable information from text messages and accurately determine the source and destination cities mentioned within.
