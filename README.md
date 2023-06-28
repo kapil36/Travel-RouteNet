@@ -1,4 +1,4 @@
-# Travel-RouteNet
+# Feature-Extraction-Travel-RouteNet
 The code aims to extract valuable features from raw text data to identify the source and destination cities mentioned in messages. It utilizes pre-trained word embeddings, LSTM layers for sequence processing, and a supervised learning approach to achieve this task.
 
 
